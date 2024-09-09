@@ -5,4 +5,4 @@ These were the initial goals of the project:
 
 2) Extract specific product-related sentiments to guide product development and enhancement efforts based on customer feedback and preferences.
 
-3)Create intuitive visualizations (e.g. charts) to present sentiment analysis results for easy interpretation by stakeholders such as product managers, marketers, and customer support teams.
+3) Create intuitive visualizations (e.g. charts) to present sentiment analysis results for easy interpretation by stakeholders such as product managers, marketers, and customer support teams.
